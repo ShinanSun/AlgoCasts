@@ -1,0 +1,23 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "for udermy toyproblems classes",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest exercises/toyproblem_Folder/test.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinanSun/AlgoCasts.git"
+  },
+  "author": "Shinan Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinanSun/AlgoCasts/issues"
+  },
+  "homepage": "https://github.com/ShinanSun/AlgoCasts#readme"
+}
